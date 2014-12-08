@@ -25,9 +25,11 @@
   "dependencies": {
     "JSONStream": "^0.10.0",
     "btoa": "^1.1.2",
+    "component-delegate": "^0.2.3",
     "dat": "^6.9.3",
     "flatsheet-editor": "0.0.0",
     "request": "^2.49.0",
+    "socket.io-client": "^1.2.1",
     "xhr": "^1.17.0"
   },
   "devDependencies": {
